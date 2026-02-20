@@ -39,6 +39,10 @@ img {
     --fs-xxl: 2.5rem;
 
     --px-lg: 1.5rem;
+    --py-base: 1.5rem;
+    --py-lg: 1.5rem;
+    --py-xl: 3rem;
+    
 }
 
 html {
