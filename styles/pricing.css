@@ -22,7 +22,7 @@
 
     & zin-pricing {
         display: block;
-        margin-inline: 1.5rem;
+        margin-block: 1.5rem;
         font: var(--fw-bold) var(--fs-price)/1.2 var(--ff-sans);
     }
 
